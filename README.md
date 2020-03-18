@@ -12,4 +12,6 @@ Once installed, you should be seamlessly redirected to whitelisted sites.
 
 The following sites are whitelisted:
 
-
+* https://app.teammood.com/
+* https://sainsburys-confluence.valiantys.net/
+* https://sainsburys-jira.valiantys.net/
