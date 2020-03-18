@@ -4,8 +4,8 @@
 // @author       dezzak
 // @include      https://eu-west-email-isolation.prod.fire.glass/*
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/dezzak/fireglass-fix/master/fireglass-fix.user.js
-// @downloadURL  https://raw.githubusercontent.com/dezzak/fireglass-fix/master/fireglass-fix.user.js
+// @updateURL    https://github.com/dezzak/fireglass-fix/raw/master/fireglass-fix.user.js
+// @downloadURL  https://github.com/dezzak/fireglass-fix/raw/master/fireglass-fix.user.js
 // ==/UserScript==
 
 (function() {
