@@ -6,6 +6,7 @@
 // @run-at       document-start
 // @updateURL    https://github.com/dezzak/fireglass-fix/raw/master/fireglass-fix.user.js
 // @downloadURL  https://github.com/dezzak/fireglass-fix/raw/master/fireglass-fix.user.js
+// @version      0.1
 // ==/UserScript==
 
 (function() {
